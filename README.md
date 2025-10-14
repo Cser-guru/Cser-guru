@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Cser-guru
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning Python for web development
+- 🌱 I’m currently working in Punarapi Technologies
 - 💞️ I’m looking to collaborate on Projects related to Fullstack development
-- 📫 Reach me on email @ satvadigilabs@outlook.com 
+- 📫 Reach me on email @ kulkarnishreedhar75@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
