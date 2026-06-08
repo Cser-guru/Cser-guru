@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Shreedhar Gururaj
+# Hi there 👋, I'm Shreedhar Kulkarni
 
 ### Full Stack Developer | Digital Marketer | Founder at TrutekSoft
 
